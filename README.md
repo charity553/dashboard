@@ -1,3 +1,5 @@
+# I am building and deploying a React Admin App with Theming, tables, Charts, Calender, Kanban. All using SyncFusion UI components.
+# The dashboard is Mobile responsive and desktop responsive.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
